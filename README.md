@@ -1,4 +1,4 @@
 # VR MOTION PLATFORM Development courses
 
-Class Date : 26 - 30 June 2023
-Period : 9am - 11:30am
+  1. Class Date : 26 - 30 June 2023
+  2. Period : 9am - 11:30am
