@@ -1,7 +1,7 @@
 # VR MOTION PLATFORM Development courses
 
   1. Class Date : 26 - 30 June 2023
-  2. Period : 9am - 11:30am
+  2. Period : 9am - 12:00pm
 
 Lesson 1
   1. Powerpoint - https://github.com/innovitechacademy/VR-MOTION-PLATFORM-Development-courses/blob/main/VR1%20-%20VR%20in%20Unity%20Fundamentals.pptx.pdf
