@@ -13,3 +13,7 @@ Lesson 2
   1. Powerpoint - https://github.com/innovitechacademy/VR-MOTION-PLATFORM-Development-courses/blob/main/VR2%20-%20Unity%20Game%20Design.pptx.pdf
   2. Zombie Toys - Game Design Document - https://github.com/innovitechacademy/VR-MOTION-PLATFORM-Development-courses/blob/main/Zombie%20Toys%20-%20Game%20Design%20Document.pdf
   3. Game Design Document Template - https://github.com/innovitechacademy/VR-MOTION-PLATFORM-Development-courses/blob/main/Game%20Design%20Document%20Template.docx
+
+Lesson 3
+  1. Powerpoint - https://github.com/innovitechacademy/VR-MOTION-PLATFORM-Development-courses/blob/main/VR3%20-%20Unity%20Level%20Design%2C%20Post%20Processing%2C%20UI.pptx.pdf
+  2. Mixamo - https://www.mixamo.com/#/
