@@ -17,3 +17,7 @@ Lesson 2
 Lesson 3
   1. Powerpoint - https://github.com/innovitechacademy/VR-MOTION-PLATFORM-Development-courses/blob/main/VR3%20-%20Unity%20Level%20Design%2C%20Post%20Processing%2C%20UI.pptx.pdf
   2. Mixamo - https://www.mixamo.com/#/
+
+Lesson 4
+  1. Powerpoint - xx
+  2. 
