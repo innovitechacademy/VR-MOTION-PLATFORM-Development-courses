@@ -19,5 +19,5 @@ Lesson 3
   2. Mixamo - https://www.mixamo.com/#/
 
 Lesson 4
-  1. Powerpoint - xx
-  2. 
+  1. Powerpoint - https://github.com/innovitechacademy/VR-MOTION-PLATFORM-Development-courses/blob/main/VR4%20-%20Game%20Play%2C%202D.pptx.pdf
+  2. Lab Materials - https://github.com/innovitechacademy/VR-MOTION-PLATFORM-Development-courses/tree/main/lesson4
