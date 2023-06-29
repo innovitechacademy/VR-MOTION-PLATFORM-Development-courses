@@ -21,21 +21,3 @@ Lesson 3
 Lesson 4
   1. Powerpoint - https://github.com/innovitechacademy/VR-MOTION-PLATFORM-Development-courses/blob/main/VR4%20-%20Game%20Play%2C%202D.pptx.pdf
   2. Lab Materials - https://github.com/innovitechacademy/VR-MOTION-PLATFORM-Development-courses/tree/main/lesson4
-
-
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.SceneManagement;
-
-public class SceneChanger : MonoBehaviour
-{
-	public void ChangeScene(string sceneName)
-	{
-		SceneManager.LoadScene(sceneName);
-	}
-	public void Exit()
-	{
-		Application.Quit ();
-	}
-}
