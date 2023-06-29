@@ -21,3 +21,6 @@ Lesson 3
 Lesson 4
   1. Powerpoint - https://github.com/innovitechacademy/VR-MOTION-PLATFORM-Development-courses/blob/main/VR4%20-%20Game%20Play%2C%202D.pptx.pdf
   2. Lab Materials - https://github.com/innovitechacademy/VR-MOTION-PLATFORM-Development-courses/tree/main/lesson4
+
+Lesson 5
+  1. Powerpoint - https://github.com/innovitechacademy/VR-MOTION-PLATFORM-Development-courses/blob/main/VR5%20-%20Game%20Production%2C%20WebVR%2C%20Game%20Market.pptx.pdf
